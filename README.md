@@ -29,3 +29,7 @@ css사용법과 파일분리를 통한 호출
 onclick listenr 사용
 
 
+크롬-> 검사->console 을 이용한 함수 호출
+
+
+
