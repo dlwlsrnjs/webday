@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a126e7da-b4e8-4e8f-841a-7221b5556c28" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../project/bookreview/12/1to100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/bookreview/12/input_one.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/bookreview/12/numberswap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/bookreview/12/numbertoint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/moviestar/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/moviestar/init_db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/moviestar/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/pythonProject/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/pythonProject/templates/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1vt9q28CdbRZuPZF93FOFIliAbL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a126e7da-b4e8-4e8f-841a-7221b5556c28" name="Default Changelist" comment="" />
+      <created>1627370705474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627370705474</updated>
+      <workItem from="1627370706993" duration="17000" />
+      <workItem from="1627370726617" duration="37000" />
+      <workItem from="1627461446420" duration="19000" />
+      <workItem from="1627461468101" duration="37000" />
+      <workItem from="1627461506775" duration="24000" />
+      <workItem from="1627461533637" duration="41000" />
+      <workItem from="1627461593699" duration="73000" />
+      <workItem from="1627461690540" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
